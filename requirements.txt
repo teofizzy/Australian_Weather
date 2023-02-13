@@ -1,5 +1,4 @@
 scikit-learn==1.2.1
-pickle
 numpy==1.24.2
 xgboost==1.7.3
 streamlit==1.17.0
